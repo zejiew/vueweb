@@ -1,0 +1,29 @@
+survey-system/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── survey/
+│   │   │   ├── SurveyCreator.vue
+│   │   │   ├── SurveyFiller.vue
+│   │   │   ├── SurveyList.vue
+│   │   │   └── SurveyResult.vue
+│   │   └── common/
+│   │       └── LanguageSwitch.vue
+│   ├── views/
+│   ├── utils/
+│   │   ├── mockData.js
+│   │   ├── chartConfig.js
+│   │   └── exportService.js
+│   ├── store/
+│   ├── locales/
+│   │   ├── zh-CN.js
+│   │   └── en-US.js
+│   ├── plugins/
+│   │   └── i18n.js
+│   ├── router/
+│   │   └── index.js
+│   ├── App.vue
+│   └── main.js
+├── public/
+├── package.json
+└── vite.config.js 
